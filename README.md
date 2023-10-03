@@ -1,17 +1,26 @@
 🄲🄾🄾🄺🄸🅂 🄲🄾🄼🄼🄰🄽🄳 🄱🅈 🅂🄰🄷🄸🄻 🄿🅁🄰🄹🄰🄿🄰🅃🄸😈
 
-pkg install git
-pkg install python
-pkg install pip
-pip install requests
-pip install mechanize
-pip install rich
-git clone https://github.com/S9HIL/SYSTUMM-COOKIE.git
-cd SYSTUMM-COOKIE
-python cookie.py
+* pkg install git
+* pkg install python
+* pkg install pip
+* pip install requests
+* pip install mechanize
+* pip install rich
+* git clone https://github.com/S9HIL/Cookie.git
+* cd SYSTUMM-COOKIE
+* python cookie.py
+
+
+
 𝐏𝐀𝐈𝐃 𝐓𝐎𝐎𝐋 𝐎𝐍𝐄 𝐓𝐈𝐌𝐄 𝐅𝐄𝐄𝐒 𝐅𝐎𝐑 𝐋𝐈𝐅𝐄𝐓𝐈𝐌𝐄🤭 😚😚😚😚😚😚😚😚😚😚😚😚😚😚😚😚😚😚😚
 
 𝐂𝐎𝐎𝐊𝐈𝐄 𝐍𝐎𝐍-𝐒𝐓𝐎𝐏 𝐂𝐎𝐍𝐕𝐎 𝐓𝐎𝐎𝐋😈 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+
+
+
+
+
 
 𝐉𝐔𝐒𝐓 𝐓𝐀𝐊𝐄 𝐂𝐎𝐎𝐊𝐈𝐄 𝐅𝐑𝐎𝐌 𝐊𝐈𝐖𝐈 𝐁𝐑𝐎𝐖𝐒𝐄𝐑😈 𝐀𝐍𝐃 𝐄𝐍𝐓𝐄𝐑 𝐂𝐎𝐎𝐊𝐈𝐄 𝐀𝐅𝐓𝐄𝐑 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐑𝐔𝐍𝐒❤️
 
