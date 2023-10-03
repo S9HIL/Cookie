@@ -7,7 +7,7 @@
 * pip install mechanize
 * pip install rich
 * git clone https://github.com/S9HIL/Cookie.git
-* cd SYSTUMM-COOKIE
+* cd Cookie
 * python cookie.py
 
 
